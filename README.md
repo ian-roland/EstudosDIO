@@ -1,2 +1,6 @@
-# EstudosDIO
-Repositório criado para organizar meus estudos no Bootcamp Angular da DIO :)
+## *Anotações do Bootcamp DIO Angular*
+
+
+### Cheat-Sheet MD :
+
+https://www.markdownguide.org/cheat-sheet/
